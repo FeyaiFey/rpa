@@ -1,0 +1,7 @@
+code
+date
+supply
+amount
+tax
+total
+remark

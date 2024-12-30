@@ -1,0 +1,5 @@
+train: VOCData/images/train
+val: VOCData/images/test
+
+nc: 7  # 类别数量
+names: ['code', 'date', 'supply', 'amount', 'tax', 'total', 'remark']  # 类别名称
